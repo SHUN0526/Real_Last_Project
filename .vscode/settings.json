@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "cmath": "cpp",
+        "deque": "cpp",
+        "string": "cpp",
+        "unordered_map": "cpp",
+        "unordered_set": "cpp",
+        "vector": "cpp",
+        "system_error": "cpp"
+    },
+    "cmake.sourceDirectory": "C:/Users/soong/OneDrive/바탕 화면/Real_Last_Project/.pio/libdeps/featheresp32/EmotiBit ArduinoFilters/mock"
+}
